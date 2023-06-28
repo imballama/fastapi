@@ -12,6 +12,7 @@ passlib = {extras = ["bcrypt"], version = "*"}
 alembic = "*"
 python-dotenv = "*"
 pylint = "*"
+pytest = "*"
 
 [dev-packages]
 
